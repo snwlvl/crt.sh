@@ -1,4 +1,4 @@
-# crt.sh
+# crt.sh v 1.0.0
 A shell script to grab subdomains from https://crt.sh, and probe for working http and https servers with [@tomnomnom's](https://github.com/tomnomnom) tool [httprobe](https://github.com/tomnomnom/httprobe)
 
 ## installation
@@ -11,7 +11,13 @@ A shell script to grab subdomains from https://crt.sh, and probe for working htt
 ``./crt.sh target.com``
 ![terminal](https://i.imgur.com/t8Jd1yD.png)
 
-### credits
-Shell script by [@snowoverride](https://twitter.com/snowoverride)
-httprobe by [@TomNomNom](https://twitter.com/@TomNomNom)
+## credits
+* Shell script by [@snowoverride](https://twitter.com/snowoverride)
+* httprobe by [@TomNomNom](https://twitter.com/@TomNomNom)
+
+## Contributing
+Feel free to contribute
+
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/snowoverride/crt.sh/blob/master/LICENSE) file for details
 
