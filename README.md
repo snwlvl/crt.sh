@@ -1,5 +1,5 @@
 # crt.sh
-A shell script to grab subdomains from https://crt.sh, and probe for working http and https servers with @tomnomnom's tool https://github.com/tomnomnom/httprobe
+A shell script to grab subdomains from https://crt.sh, and probe for working http and https servers with [@tomnomnom's](https://github.com/tomnomnom) tool https://github.com/tomnomnom/httprobe
 
 ## installation
 1. have [httprobe](https://github.com/tomnomnom/httprobe/) installed.
