@@ -8,11 +8,11 @@ A shell script to grab subdomains from https://crt.sh, and probe for working htt
 4. ``chmod a+x crt.sh``
 
 ## Usage
-``./crt.sh target.com``
+`` ~ > ./crt.sh target.com``
 ![terminal](https://i.imgur.com/t8Jd1yD.png)
 
 ## Credits
-* Shell script by [@snowoverride](https://twitter.com/snowoverride)
+* crt.sh by [@snowoverride](https://twitter.com/snowoverride)
 * httprobe by [@TomNomNom](https://twitter.com/@TomNomNom)
 
 ## Contributing
