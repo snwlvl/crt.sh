@@ -12,8 +12,8 @@ A shell script to grab subdomains from https://crt.sh, and probe for working htt
 ![terminal](https://i.imgur.com/t8Jd1yD.png)
 
 ## Credits
-* crt.sh by [@snowoverride](https://twitter.com/snowoverride)
-* httprobe by [@TomNomNom](https://twitter.com/@TomNomNom)
+* crt.sh by [@snwlol](https://twitter.com/snwlol)
+* httprobe by [@TomNomNom](https://twitter.com/TomNomNom)
 
 ## Contributing
 Feel free to contribute
