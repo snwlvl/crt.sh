@@ -3,7 +3,7 @@ A shell script to grab subdomains from https://crt.sh, and probe for working htt
 
 ## Installation
 1. have [httprobe](https://github.com/tomnomnom/httprobe/) installed.
-2. ``git clone https://github.com/snowoverride/crt.sh.git``
+2. ``git clone https://github.com/snwlol/crt.sh.git``
 3. ``cd crt.sh``
 4. ``chmod a+x crt.sh``
 
