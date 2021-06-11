@@ -12,7 +12,7 @@ A shell script to grab subdomains from https://crt.sh, and probe for working htt
 ![terminal](https://i.imgur.com/t8Jd1yD.png)
 
 ## Credits
-* crt.sh by [@snwlol](https://twitter.com/snwlol)
+* crt.sh by [@snwlvl](https://twitter.com/snwlvl)
 * httprobe by [@TomNomNom](https://twitter.com/TomNomNom)
 
 ## Contributing
