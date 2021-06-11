@@ -19,5 +19,5 @@ A shell script to grab subdomains from https://crt.sh, and probe for working htt
 Feel free to contribute
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/snowoverride/crt.sh/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/snwlvl/crt.sh/blob/master/LICENSE) file for details
 
